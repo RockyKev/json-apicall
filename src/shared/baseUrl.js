@@ -1,2 +1,2 @@
 export const baseUrl =
-  "http://my-json-server.typicode.com/RockyKev/json-apicall/";
+  "https://my-json-server.typicode.com/RockyKev/json-apicall/";
