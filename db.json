@@ -27,7 +27,7 @@
     {
       "id": 3,
       "name": "Chocolate Stooper",
-      "image": "images/coffeeblurred.jpg",
+      "image": "https://github.com/RockyKev/json-apicall/blob/master/json-server/public/images/coffeeblurred.jpg?raw=true",
       "elevation": 42,
       "featured": true,
       "description": "You'll never want to leave this hidden gem, deep within the lush choco beans. So rich you'll think you're Jay-Z."
