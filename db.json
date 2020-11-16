@@ -19,7 +19,7 @@
     {
       "id": 2,
       "name": "Coffee on the brain",
-      "image": "images/coffee_reading.jpg",
+      "image": "https://github.com/RockyKev/json-apicall/blob/master/json-server/public/images/coffee_reading.jpg?raw=true",
       "elevation": 2901,
       "featured": false,
       "description": "Who needs Red Bull when you got this high voltage goodness in your life."
